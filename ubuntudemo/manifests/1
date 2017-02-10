@@ -1,0 +1,6 @@
+class ubuntudemo{
+	
+	package {'apache2':
+		ensure	=> present,
+	} 
+}
